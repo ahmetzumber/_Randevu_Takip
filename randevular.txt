@@ -1,0 +1,6 @@
+hakan aktan,1,8
+emel birlik,2,12 
+faruk cey,2,5
+burak ceylan,4,5    
+ahmet zumber,3,13
+nazif enes,5,1
